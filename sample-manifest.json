@@ -1,0 +1,12 @@
+{
+  "export_job_id": "efd4a353-e0c4-403d-a3a8-58ee79d6b7e6",
+  "id_short": 493317,
+  "published_at": "2026-04-17T19:35:01Z",
+  "repo_name": "all-restaurants-in-greater-phoenix-area-metro-arizona-us-sample-493317",
+  "sample_asset_name": "beamstation_493317_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/493317/beamstation_493317_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "9d06a475c388d92e683b69f7d72d179ab3cb0eef46f77ba5079da360965a485a",
+  "sample_size_bytes": 3394971,
+  "total_records": 10752
+}
