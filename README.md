@@ -1,6 +1,6 @@
 # All Restaurants in Greater Phoenix Area (Metro), Arizona, US
 
-> Free BeamStation sample export with 1,000 rows and masked direct-contact fields.
+> Free BeamStation sample export with 932 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `493317` |
 | Location | Phoenix-Mesa-Chandler, AZ |
 | Category | Restaurants |
-| Full dataset size | 10,752 records |
-| Free sample size | 1,000 records (9.3%) |
-| Last export | 2026-04-14T15:52:56.105021+00:00 |
+| Full dataset size | 9,321 records |
+| Free sample size | 932 records (10.0%) |
+| Last export | 2026-04-21T16:59:33.502904+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-phoenix-area-metro-arizona-us-sample-493317/releases/download/sample-latest/beamstation_493317_restaurants-us-phoenixmesachandleraz_SAMPLE_DIST.csv) |
 
 ## What is in this sample
